@@ -1,1 +1,1 @@
-json g.render(template: '/plugin/GsonPlugin/plugintemplate/plugintemplate', plugin: 'GsonPlugin')
+json g.render(template: '/plugintemplate/plugintemplate')
