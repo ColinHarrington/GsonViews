@@ -1,5 +1,3 @@
 rootProject.name = 'gson-example'
 
 include 'GsonApp', 'GsonPlugin'
-project(":GsonApp").name = "gson-app"
-project(":GsonPlugin").name = "gson-plugin"
